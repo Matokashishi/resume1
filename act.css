@@ -1,0 +1,79 @@
+body { 
+    font-family: 'Kanit' Neue, sans-serif;
+    background-color: #86918b;
+}
+
+section {
+    font-family: Helvetica Neue,
+        Helvetica,
+        Arial,
+        sans-serif
+    
+   
+}
+
+.container {
+    border: 5px solid #888;
+
+    background-color: #fff;
+    width: 1440px;
+
+
+}
+
+.navbar {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+    color: #fff;
+
+
+
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+}
+
+
+.textbout {
+
+    padding-top: 50px;
+    padding-right: 50px;
+
+    color: #888;
+
+}
+
+h2 {
+    font-size: 66px;
+}
+
+.textp {
+    padding-right: 50px;
+
+    color: #888;
+
+}
+
+.textp a {
+    background-color: #86918b;
+    color: #fff;
+    border-radius: 30px;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+.imgME {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-top: 50px;
+
+}
